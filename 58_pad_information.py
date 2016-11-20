@@ -49,6 +49,7 @@ def extract_infos(urls):
         datas.append(data)
     return datas
 
+
 s = get_target_urls(urls)
 
 
